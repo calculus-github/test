@@ -1,0 +1,5 @@
+#Kali ISO linux
+https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Kali/kali.sh
+
+# Manga
+https://i.4cdn.org/a/1662474232776974.png
